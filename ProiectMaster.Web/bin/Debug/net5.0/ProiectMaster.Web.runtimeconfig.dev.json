@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\radut\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\radut\\.nuget\\packages"
+    ]
+  }
+}

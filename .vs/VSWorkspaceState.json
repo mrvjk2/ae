@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProiectMaster.DataAccess",
+    "\\ProiectMaster.DataAccess\\bin",
+    "\\ProiectMaster.DataAccess\\Interfaces",
+    "\\ProiectMaster.DataAccess\\obj",
+    "\\ProiectMaster.DataAccess\\Repository",
+    "\\ProiectMaster.DataAccess\\SqlScripts",
+    "\\ProiectMaster.Web"
+  ],
+  "SelectedNode": "\\ProiectMaster.sln",
+  "PreviewInSolutionExplorer": false
+}
